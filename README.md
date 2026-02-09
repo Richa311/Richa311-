@@ -5,4 +5,5 @@
 ### I love digital tecnology. I enjoy working with htmls, coding and all other instereting things. I have made websites and also a keychain as 3d modelling from blender last year. However, I often find digital tecnology very difficult. Specially when there are some promblems or bugs. I choosed digital tecnology  to be successful in digital work in future. However, I am stil not confrimed about my future carrer. 
 
 ## Countries I want to travel 
+ ![hello](image.png)
 * Switerland- I love the nature there and want to know more about switerland.
